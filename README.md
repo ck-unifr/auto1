@@ -24,3 +24,7 @@ Ideally, we should be able to replicate your analysis from your submitted source
 A. Explain each and every of your design choices (e.g., preprocessing, model selection, hyper parameters, evaluation criteria). Compare and contrast your choices with alternative methodologies. 
 
 B. Describe how you would improve the model in Question 3 if you had more time.
+
+
+### My solutions:
+auto1.ipynb
